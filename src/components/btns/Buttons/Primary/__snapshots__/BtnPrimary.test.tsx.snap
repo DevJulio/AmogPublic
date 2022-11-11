@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Primary Component Matches snapshot 1`] = `
+<styled.button
+  className="button-primary"
+  color="green"
+  disable={false}
+  type="button"
+/>
+`;
